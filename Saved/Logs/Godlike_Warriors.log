@@ -809,3 +809,12 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2021.10.21-08.15.53:672][432]LogSavePackage: Moving '../../../../../../Users/KDPS/Documents/Unreal Projects/Godlike_Warriors/Saved/NewBlueprint8CAB47B1496B12548054ADA7E181AB5A.tmp' to '../../../../../../Users/KDPS/Documents/Unreal Projects/Godlike_Warriors/Content/StarterContent/Blueprints/NewBlueprint.uasset'
 [2021.10.21-08.15.53:684][432]AssetCheck: New page: Asset Save: NewBlueprint
 [2021.10.21-08.15.53:684][432]LogContentValidation: Display: Validating Blueprint /Game/StarterContent/Blueprints/NewBlueprint.NewBlueprint
+[2021.10.21-08.36.42:908][402]LogActorFactory: Actor Factory created Cube
+[2021.10.21-08.36.43:616][444]LogActorFactory: Actor Factory created Cube
+[2021.10.21-08.36.45:786][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.51ms
+[2021.10.21-08.36.46:856][571]LogSlate: Window 'Save Content' being destroyed
+[2021.10.21-08.36.46:887][571]LogUObjectHash: Compacting FUObjectHashTables data took   0.27ms
+[2021.10.21-08.36.46:909][571]LogSavePackage: Moving '../../../../../../Users/KDPS/Documents/Unreal Projects/Godlike_Warriors/Saved/FirstPersonExampleMapD01D8FA94689C0B5F1E795BC8453EE16.tmp' to '../../../../../../Users/KDPS/Documents/Unreal Projects/Godlike_Warriors/Content/FirstPersonBP/Maps/FirstPersonExampleMap.umap'
+[2021.10.21-08.36.46:915][571]LogFileHelpers: Saving map 'FirstPersonExampleMap' took 0.031
+[2021.10.21-08.36.46:928][571]AssetCheck: New page: Asset Save: FirstPersonExampleMap
+[2021.10.21-08.36.46:928][571]LogContentValidation: Display: Validating World /Game/FirstPersonBP/Maps/FirstPersonExampleMap.FirstPersonExampleMap
